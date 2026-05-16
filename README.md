@@ -1,6 +1,6 @@
 # Shadow Ninja: The Deadly Oath
 
-![Shadow Ninja Poster](poster.png)
+![Shadow Ninja Poster](poster.jpg)
 
 ## 🥷 Overview
 **Shadow Ninja: The Deadly Oath** is a high-octane, action-packed ninja combat game. Step into the shadows and embark on a perilous journey to fulfill a deadly oath. Master the arts of stealth, speed, and lethal combat as you face off against formidable foes in a world of fire and lightning.
